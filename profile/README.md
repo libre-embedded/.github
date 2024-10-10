@@ -1,3 +1,3 @@
 # Libre Embedded
 
-Under construction.
+Free as in freedom.
