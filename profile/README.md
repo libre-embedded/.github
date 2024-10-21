@@ -2,7 +2,7 @@
     =====================================
     generator=datazen
     version=3.1.4
-    hash=84cd2b7eacfcc910bc20a7c69a7d2e7a
+    hash=318d359430e8e04acd04accc70b15bac
     =====================================
 -->
 
@@ -11,6 +11,13 @@
 **Free as in freedom.**
 
 *Site under construction!*
+
+(consider [sponsoring development](https://github.com/sponsors/vkottler))
+
+## Links
+
+* [Website](https://libre-embedded.com)
+* [GitHub](https://github.com/libre-embedded)
 
 ## Demo Applications
 
