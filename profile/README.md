@@ -1,4 +1,4 @@
-# Libre ![logo](https://libre-embedded.com/static/png/chip-circle-bootstrap/128x128.png) Embedded
+# Libre [![logo](https://libre-embedded.com/static/png/chip-circle-bootstrap/128x128.png)](https://libre-embedded.com) Embedded
 
 **Free as in freedom.**
 
