@@ -1,4 +1,4 @@
-# 10/21 EH1800 12:05-12:55 Discussion
+# 10/28 EH1800 12:05-12:55 Discussion
 
 Hosted by [Vaughn Kottler](https://github.com/vkottler).
 
@@ -45,7 +45,7 @@ Live interaction demonstrations.
 * avoiding production vs. playing goalie 24/7
 * long-term incentives / state of the labor market
 
-### Skoo
+### School
 
 * degree / accreditation vs. absolute state of the "gold rush" (labor market)
 * Hyperloop
