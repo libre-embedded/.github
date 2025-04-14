@@ -2,7 +2,7 @@
     =====================================
     generator=datazen
     version=3.1.4
-    hash=98196f947a30a900291f9b2c35edd4f0
+    hash=98e7b1f9e78c1eb53d9823ae87896afc
     =====================================
 -->
 
@@ -17,8 +17,7 @@
 ## About
 
 *Libre Embedded Engineering Technologies LLC* is an engineering consultancy
-and product development company based in Madison, Wisconsin (USA) and
-was established in October of 2024.
+and product development company.
 
 ### Links
 
