@@ -2,7 +2,7 @@
     =====================================
     generator=datazen
     version=3.1.4
-    hash=98e7b1f9e78c1eb53d9823ae87896afc
+    hash=6636c624964faf3a094f27807caf29d9
     =====================================
 -->
 
@@ -19,15 +19,23 @@
 *Libre Embedded Engineering Technologies LLC* is an engineering consultancy
 and product development company.
 
-### Links
+([site](https://libre-embedded.com), [source](https://github.com/libre-embedded))
 
-* [Website](https://libre-embedded.com)
-* [GitHub](https://github.com/libre-embedded)
-
-## Contact
+### Contact
 
 Email `vaughn@libre-embedded.com` with business and partnership inquiries at
 this time.
+
+---
+
+## Python Packages
+
+* `datazen` ([source](https://github.com/libre-embedded/datazen), [docs](https://libre-embedded.com/python/datazen))
+* `runtimepy` ([source](https://github.com/libre-embedded/runtimepy), [docs](https://libre-embedded.com/python/runtimepy))
+* `svgen` ([source](https://github.com/libre-embedded/svgen), [docs](https://libre-embedded.com/python/svgen))
+* `vcorelib` ([source](https://github.com/libre-embedded/vcorelib), [docs](https://libre-embedded.com/python/vcorelib))
+
+---
 
 ## Demo Applications
 
