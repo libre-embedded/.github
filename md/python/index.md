@@ -2,7 +2,7 @@
     =====================================
     generator=datazen
     version=3.1.4
-    hash=19544e4d1502bbc5b0de42079e23e883
+    hash=9282920110bf078714ec1dc26a638d68
     =====================================
 -->
 
@@ -15,6 +15,7 @@
 | `datazen` | [git](https://github.com/libre-embedded/datazen) | [docs](https://libre-embedded.com/python/datazen) | [pypi](https://pypi.org/project/datazen) |
 | `experimental-lowqa` | [git](https://github.com/libre-embedded/experimental-lowqa) | [docs](https://libre-embedded.com/python/experimental-lowqa) | [pypi](https://pypi.org/project/experimental-lowqa) |
 | `ifgen` | [git](https://github.com/libre-embedded/ifgen) | [docs](https://libre-embedded.com/python/ifgen) | [pypi](https://pypi.org/project/ifgen) |
+| `rcmpy` | [git](https://github.com/libre-embedded/rcmpy) | [docs](https://libre-embedded.com/python/rcmpy) | [pypi](https://pypi.org/project/rcmpy) |
 | `runtimepy` | [git](https://github.com/libre-embedded/runtimepy) | [docs](https://libre-embedded.com/python/runtimepy) | [pypi](https://pypi.org/project/runtimepy) |
 | `svgen` | [git](https://github.com/libre-embedded/svgen) | [docs](https://libre-embedded.com/python/svgen) | [pypi](https://pypi.org/project/svgen) |
 | `vcorelib` | [git](https://github.com/libre-embedded/vcorelib) | [docs](https://libre-embedded.com/python/vcorelib) | [pypi](https://pypi.org/project/vcorelib) |
