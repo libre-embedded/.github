@@ -1,5 +1,6 @@
 # zima1
 
+* [system monitor](/app.html#linux)
 * [files](/mnt/dir.html)
 
 ## Services
