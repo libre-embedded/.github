@@ -1,7 +1,6 @@
 # zima1
 
 * [files](/mnt/dir.html)
-* [this web server](/app.html)
 
 ## Services
 
