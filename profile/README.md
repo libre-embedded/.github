@@ -2,7 +2,7 @@
     =====================================
     generator=datazen
     version=3.2.4
-    hash=d06087146877c4a14d2c81c7a9d2573c
+    hash=b3f6d62517f0c380eccdbfb93b51b049
     =====================================
 -->
 
@@ -27,13 +27,13 @@ Live (demo) control servers run on AWS free-tier resources.
 
 ---
 
-## C++ Packages
+## [C++ Packages](https://libre-embedded.com/cpp)
 
 These use [yambs](https://github.com/libre-embedded/yambs) as a build system
 and GitHub releases for dependency lifecycle management.
 
 *See also:* [yambs-project-template](https://github.com/libre-embedded/yambs-project-template),
-[`toolchains`](https://github.com/libre-embedded/toolchains).
+[toolchains](https://github.com/libre-embedded/toolchains).
 
 | name | git | docs | release |
 |------|-----|------|---------|
@@ -45,7 +45,7 @@ and GitHub releases for dependency lifecycle management.
 | `yambs-sample3` | [git](https://github.com/libre-embedded/yambs-sample3) | [docs](https://libre-embedded.com/cpp/yambs-sample3) | [latest](https://github.com/libre-embedded/yambs-sample3/releases/latest)
 
 
-## Python Packages
+## [Python Packages](https://libre-embedded.com/python)
 
 Distributed to [PyPI](https://pypi.org/) and trivially installable anywhere.
 
