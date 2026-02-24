@@ -2,13 +2,13 @@
     =====================================
     generator=datazen
     version=3.2.4
-    hash=03ed97656caa8076bb7310444a4e69fd
+    hash=508d62bdcff459bdc791f1230028fda8
     =====================================
 -->
 
 # C++ Packages
 
-([back](..))
+([back](..), [Python](python))
 
 | name | git | docs | release |
 |------|-----|------|---------|
